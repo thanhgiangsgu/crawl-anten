@@ -1,6 +1,7 @@
 const fs = require("fs");
 const axios = require("axios");
 const cheerio = require("cheerio");
+const path = require("path");
 
 class crawl {
   async crawlData(req, res) {
@@ -308,6 +309,47 @@ class crawl {
         .catch((error) => {
           console.error("Đã có lỗi:", error);
         });
+    });
+  }
+
+  async downloadImg() {
+    fs.readFile("output.json", "utf8", async (err, data) => {
+      if (err) {
+        console.error("Error reading file:", err);
+        return;
+      }
+
+      // Parse dữ liệu từ chuỗi JSON
+      const outputData = JSON.parse(data);
+
+      for (const item of outputData) {
+        const folderName = item.shortName;
+
+        // Tạo thư mục nếu chưa tồn tại
+        if (!fs.existsSync(folderName)) {
+          fs.mkdirSync(folderName);
+        }
+
+        for (let i = 0; i < item.srcArray.length; i++) {
+          const imageUrl = item.srcArray[i];
+          const imageFileName = `image${i + 1}.png`;
+
+          // Tạo đường dẫn đầy đủ cho hình ảnh trong thư mục
+          const imagePath = path.join(folderName, imageFileName);
+
+          try {
+            const response = await axios({
+              url: imageUrl,
+              method: "GET",
+              responseType: "stream",
+            });
+
+            response.data.pipe(fs.createWriteStream(imagePath));
+          } catch (error) {
+            console.error(`Error downloading image: ${imageUrl}`);
+          }
+        }
+      }
     });
   }
 }
