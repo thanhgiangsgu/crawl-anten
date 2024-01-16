@@ -5,7 +5,6 @@ const cheerio = require("cheerio");
 class crawl {
   async crawlData(req, res) {
     const url = "https://poynting.tech/antennas/?v=e14da64a5617";
-
     // Sử dụng Axios để tải nội dung của trang web
     axios
       .get(url)
@@ -162,6 +161,60 @@ class crawl {
             ".woocommerce.et-dynamic-content-woo.et-dynamic-content-woo--product_description"
           ).text();
 
+          const dataArray = [];
+
+          const dataRows = $(
+            ".et_pb_toggle.et_pb_module.et_pb_accordion_item.et_pb_accordion_item_2_tb_body div table tbody tr"
+          );
+          // Lặp qua từng hàng trong tbody
+          dataRows.each(function (index) {
+            const rowData = [];
+
+            // Lặp qua từng ô trong hàng
+            $(this)
+              .find("td")
+              .each(function (tdIndex) {
+                // Lấy nội dung từ thẻ <td>
+                const value = $(this).text();
+
+                // Thêm giá trị vào mảng rowData
+                rowData.push(value);
+              });
+
+            // Thêm mảng rowData vào mảng 2D dataArray
+            dataArray.push(rowData);
+          });
+
+          console.log(dataArray);
+
+          const headerRow = [
+            "SKU",
+            "COAX_Cable_Type",
+            "COAX_Cable_Length",
+            "Color",
+          ];
+          const resultArray = [];
+          const srcArray = [];
+
+          if (dataArray[0]) {
+            for (let i = 0; i < dataArray[0].length; i++) {
+              const rowData = {};
+              for (let j = 0; j < dataArray.length; j++) {
+                const key = headerRow[j];
+                const value = dataArray[j][i];
+                rowData[key] = value;
+              }
+              resultArray.push(rowData);
+            }
+          }
+
+          $(".woocommerce-product-gallery__wrapper [data-src]").each(
+            function () {
+              const dataSrc = $(this).attr("data-src");
+              srcArray.push(dataSrc);
+            }
+          );
+
           const productInfo = {
             fullName: fullName,
             shortName: shortName,
@@ -170,11 +223,12 @@ class crawl {
             parameter: parameter,
             description: description,
             productOverview: productOverview,
+            productOptions: resultArray,
+            srcArray: srcArray,
+            categories: [],
           };
 
           productsData.push(productInfo);
-
-          console.log("Đã thêm sản phẩm ", productInfo);
         } else {
           console.log(`Không thể truy cập URL: ${productLink}`);
         }
@@ -191,6 +245,70 @@ class crawl {
       console.error("Đã có lỗi:", error);
       res.status(500).json({ error: "Internal Server Error" });
     }
+  }
+
+  async addCategories(req, res) {
+    const { url, categoriesName } = req.body;
+    // Đọc dữ liệu từ file output.json
+    let outputData = [];
+    fs.readFile("output.json", "utf8", (err, data) => {
+      if (err) {
+        console.error("Error reading file:", err);
+        return;
+      }
+
+      // Parse dữ liệu từ chuỗi JSON
+      outputData = JSON.parse(data);
+
+      // Sử dụng Axios để tải nội dung của trang web
+      axios
+        .get(url)
+        .then((response) => {
+          // Kiểm tra xem trang web có được tải thành công không
+          if (response.status === 200) {
+            // Sử dụng Cheerio để phân tích cú pháp HTML
+            const $ = cheerio.load(response.data);
+
+            // Truy xuất vào thẻ ul và lấy toàn bộ nội dung
+            const ulContent = $("ul.products.columns-4");
+
+            ulContent.find("li").each((index, liElement) => {
+              // Sử dụng $(liElement) để tạo một đối tượng Cheerio từ phần tử li hiện tại
+              const li = $(liElement);
+              // Truy xuất thông tin khác từ thẻ li
+              const productName = li
+                .find("h2.woocommerce-loop-product__title")
+                .text();
+
+              console.log(`Ten san pham thu ${index} `, productName);
+              // Lặp qua từng sản phẩm trong mảng outputData
+              outputData.forEach((product) => {
+                if (product.shortName == productName) {
+                  product.categories.push(categoriesName);
+                }
+              });
+            });
+
+            fs.writeFile(
+              "output.json",
+              JSON.stringify(outputData, null, 2),
+              "utf8",
+              (err) => {
+                if (err) {
+                  console.error("Error writing file:", err);
+                } else {
+                  console.log("Categories added to output.json successfully.");
+                }
+              }
+            );
+          } else {
+            console.log("Không thể tải trang web.");
+          }
+        })
+        .catch((error) => {
+          console.error("Đã có lỗi:", error);
+        });
+    });
   }
 }
 
