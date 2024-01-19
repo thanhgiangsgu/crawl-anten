@@ -33,10 +33,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/xpol-series/A-XPOL-0002-V3-01-Directional-LTE-Front-View.png",
       "https://poynting.tech/wp-content/uploads/product-images/xpol-series/A-XPOL-0002-V3-01-Directional-LTE-Side-View.png"
     ],
-    "categories": [
-      "Commercial & Industrial",
-      "Farming & Agricultural"
-    ]
+    "categories": ["Commercial & Industrial", "Farming & Agricultural"]
   },
   {
     "fullName": "Wideband Log-Periodic Dipole Array Antenna",
@@ -644,9 +641,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/waveHunter/A-WHUNTER-001-V3-X-Polarised-Lifted-View.png",
       "https://poynting.tech/wp-content/uploads/product-images/waveHunter/A-WHUNTER-001-V3-X-Polarised-with-Pedastal.png"
     ],
-    "categories": [
-      "Marine & Coastal"
-    ]
+    "categories": ["Marine & Coastal"]
   },
   {
     "fullName": "X-Polarised, High Gain, Uni-directional LTE Antenna (2X2 MIMO)",
@@ -984,9 +979,7 @@
       "https://poynting.tech/wp-content/uploads/A-OMNI-0914-V1-01-Marine-Antenna-Front-View.png",
       "https://poynting.tech/wp-content/uploads/A-OMNI-0914-V1-01-Marine-Antenna-Side-View.png"
     ],
-    "categories": [
-      "Marine & Coastal"
-    ]
+    "categories": ["Marine & Coastal"]
   },
   {
     "fullName": "High Gain, Omni-Directional, 2x2 MIMO LTE/5G Antenna",
@@ -1016,9 +1009,7 @@
       "https://poynting.tech/wp-content/uploads/A-OMNI-0902-V1-01-Marine-Antenna-Front-View.png",
       "https://poynting.tech/wp-content/uploads/A-OMNI-0902-V1-01-Marine-Antenna-Side-View.png"
     ],
-    "categories": [
-      "Marine & Coastal"
-    ]
+    "categories": ["Marine & Coastal"]
   },
   {
     "fullName": "Uni-Directional, Dual-band Wi-Fi Antenna",
@@ -1263,9 +1254,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0022-V3-01-Top-View.png",
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0022-V3-02-Featured-Image-BRKT-45-47.png"
     ],
-    "categories": [
-      "Mining & Tunneling"
-    ]
+    "categories": ["Mining & Tunneling"]
   },
   {
     "fullName": "3-in-1 Transportation & IoT/M2M Antenna",
@@ -1413,9 +1402,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0031-V2-01-Mine-Tunnel-Front-View.png",
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0031-V2-01-Mine-Tunnel-Side-View.png"
     ],
-    "categories": [
-      "Mining & Tunneling"
-    ]
+    "categories": ["Mining & Tunneling"]
   },
   {
     "fullName": "",
@@ -1528,9 +1515,7 @@
       "https://poynting.tech/wp-content/uploads/A-OMNI-0904-V1-01-Marine-Antenna-Front-View.png",
       "https://poynting.tech/wp-content/uploads/A-OMNI-0904-V1-01-Marine-Antenna-Side-View.png"
     ],
-    "categories": [
-      "Marine & Coastal"
-    ]
+    "categories": ["Marine & Coastal"]
   },
   {
     "fullName": "Omni-Directional, Marine & Coastal Antenna; Dual-band Wi-Fi",
@@ -1627,9 +1612,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0013-V3-01-Feature-Image-BRKT-45.png",
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0013-V3-01-Feature-Image-BRKT-47.png"
     ],
-    "categories": [
-      "Mining & Tunneling"
-    ]
+    "categories": ["Mining & Tunneling"]
   },
   {
     "fullName": "3-in-1 Transportation & IoT/M2M Antenna",
@@ -1756,9 +1739,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/ripl-series/A-RIPL-V1-01-BRKT-072.png",
       "https://poynting.tech/wp-content/uploads/product-images/ripl-series/A-RIPL-Top-View.png"
     ],
-    "categories": [
-      "Marine & Coastal"
-    ]
+    "categories": ["Marine & Coastal"]
   },
   {
     "fullName": "Omni-Directional, Marine & Coastal 5G/4G 2x2 MIMO Antenna",
@@ -1839,9 +1820,7 @@
     "srcArray": [
       "https://poynting.tech/wp-content/uploads/product-images/accessories/A-ADPT-024-V2-LTE-Antenna-Adaptor-Feature-Image.png"
     ],
-    "categories": [
-      "Commercial & Industrial"
-    ]
+    "categories": ["Commercial & Industrial"]
   },
   {
     "fullName": "5-in-1 Transportation & Automotive Antenna",
@@ -1972,9 +1951,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0006-V1-01-Directional-Mine-Tunnel-Front-View.png",
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0006-V1-01-Directional-Mine-Tunnel-Side-View.png"
     ],
-    "categories": [
-      "Mining & Tunneling"
-    ]
+    "categories": ["Mining & Tunneling"]
   },
   {
     "fullName": "Circular Polarised, Uni-Directional Mine/Tunnel Antenna; Wi-Fi",
@@ -1998,9 +1975,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0003-Directional-Mine-Tunnel-Front-View.png",
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0003-Directional-Mine-Tunnel-Side-View.png"
     ],
-    "categories": [
-      "Mining & Tunneling"
-    ]
+    "categories": ["Mining & Tunneling"]
   },
   {
     "fullName": "",
@@ -2017,10 +1992,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/accessories/A-BRKT-039-Heavy-Duty-Marine-Mount-Antenna-Bracket-Front-View.png",
       "https://poynting.tech/wp-content/uploads/product-images/accessories/A-BRKT-039-Heavy-Duty-Marine-Mount-Antenna-Bracket-Side-View.png"
     ],
-    "categories": [
-      "Marine & Coastal",
-      "Transportation & Mobility"
-    ]
+    "categories": ["Marine & Coastal", "Transportation & Mobility"]
   },
   {
     "fullName": "",
@@ -2037,10 +2009,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/accessories/A-BRKT-037-V2-01-Marine-Bracket-Front-View.png",
       "https://poynting.tech/wp-content/uploads/product-images/accessories/A-BRKT-037-V2-01-Marine-Bracket-Side-View.png"
     ],
-    "categories": [
-      "Marine & Coastal",
-      "Transportation & Mobility"
-    ]
+    "categories": ["Marine & Coastal", "Transportation & Mobility"]
   },
   {
     "fullName": "Omni-Directional, Wideband 5G/LTE Rhyno Antenna",
@@ -2176,9 +2145,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/ripl-series/A-RIPL-V1-01-BRKT-072.png",
       "https://poynting.tech/wp-content/uploads/product-images/ripl-series/A-RIPL-V1-01-BRKT-073.png"
     ],
-    "categories": [
-      "Marine & Coastal"
-    ]
+    "categories": ["Marine & Coastal"]
   },
   {
     "fullName": "Circular Polarised, Uni-Directional Mine/Tunnel Wi-Fi Antenna",
@@ -2209,9 +2176,7 @@
       "https://poynting.tech/wp-content/uploads/A-HELI-0041-V1-01-Circular-Polarised-Uni-Directional-Mine-Tunnel-Wi-Fi-Antenna-Side-View.png",
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0041-V1-01-Circular-Polarised-Uni-Directional-Mine-Tunnel-Wi-Fi-Antenna-Top-View.png"
     ],
-    "categories": [
-      "Mining & Tunneling"
-    ]
+    "categories": ["Mining & Tunneling"]
   },
   {
     "fullName": "",
@@ -2315,9 +2280,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0005-V1-01-Directional-Mine-Tunnel-Front-View.png",
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0005-V1-01-Directional-Mine-Tunnel-Side-View.png"
     ],
-    "categories": [
-      "Mining & Tunneling"
-    ]
+    "categories": ["Mining & Tunneling"]
   },
   {
     "fullName": "",
@@ -2335,9 +2298,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/accessories/BRKT-90-TOP-VIEW.png",
       "https://poynting.tech/wp-content/uploads/product-images/accessories/BRKT-90-SIDE-VIEW.png"
     ],
-    "categories": [
-      "Marine & Coastal"
-    ]
+    "categories": ["Marine & Coastal"]
   },
   {
     "fullName": "Circular Polarised, Bi-Directional Mine/Tunnel Wi-Fi Antenna",
@@ -2367,9 +2328,7 @@
       "https://poynting.tech/wp-content/uploads/A-HELI-0042-V1-01-Circular-Polarised-Bi-Directional-Mine-Tunnel-Wi-Fi-Antenna-Side-View.png",
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0042-V1-01-Circular-Polarised-Bi-Directional-Mine-Tunnel-Wi-Fi-Antenna-Top-View.png"
     ],
-    "categories": [
-      "Mining & Tunneling"
-    ]
+    "categories": ["Mining & Tunneling"]
   },
   {
     "fullName": "",
@@ -2413,10 +2372,7 @@
       "https://poynting.tech/wp-content/uploads/A-UDAS-0001-V1-01-2x2-MIMO-Leaky-Feeder-Front-View.png",
       "https://poynting.tech/wp-content/uploads/A-UDAS-0001-V1-01-2x2-MIMO-Leaky-Feeder-Side-View.png"
     ],
-    "categories": [
-      "Mining & Tunneling",
-      "Transportation & Mobility"
-    ]
+    "categories": ["Mining & Tunneling", "Transportation & Mobility"]
   },
   {
     "fullName": "Circular Polarised, Bi-Directional Mine/Tunnel Antenna; Dual-band Wi-Fi",
@@ -2440,9 +2396,7 @@
       "https://poynting.tech/wp-content/uploads/A-HELI-0040-V1-01-11dBi-Wi-Fi-Mine-Tunnel-Front-View.png",
       "https://poynting.tech/wp-content/uploads/A-HELI-0040-V1-01-11dBi-Wi-Fi-Mine-Tunnel-Side-View.png"
     ],
-    "categories": [
-      "Mining & Tunneling"
-    ]
+    "categories": ["Mining & Tunneling"]
   },
   {
     "fullName": "",
@@ -2628,9 +2582,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0021-V3-01-Top-View.png",
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0021-V3-02-Feature-Image-BRKT-47.png"
     ],
-    "categories": [
-      "Mining & Tunneling"
-    ]
+    "categories": ["Mining & Tunneling"]
   },
   {
     "fullName": "Omni-Directional, Marine & Coastal LTE Antenna",
@@ -3051,9 +3003,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0019-V2-01-L-Wi-Fi-Mine-Tunnel-Front-View-1.png",
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0019-V2-01-L-Wi-Fi-Mine-Tunnel-Side-View-1.png"
     ],
-    "categories": [
-      "Mining & Tunneling"
-    ]
+    "categories": ["Mining & Tunneling"]
   },
   {
     "fullName": "Circular Polarised, Bi-Directional Mine/Tunnel Antenna; Wi-Fi",
@@ -3083,9 +3033,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0018-V2-01-L-Wi-Fi-Mine-Tunnel-Front-View-1.png",
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0018-V2-01-L-Wi-Fi-Mine-Tunnel-Side-View-Copy.png"
     ],
-    "categories": [
-      "Mining & Tunneling"
-    ]
+    "categories": ["Mining & Tunneling"]
   },
   {
     "fullName": "Circular Polarised, Uni-Directional Mine/Tunnel Antenna; Wi-Fi",
@@ -3115,9 +3063,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0012-V2-01-L-Uni-Directional-Mine-Tunnel-Front-View-1.png",
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0012-V2-01-L-Uni-Directional-Mine-Tunnel-Side-View-1.png"
     ],
-    "categories": [
-      "Mining & Tunneling"
-    ]
+    "categories": ["Mining & Tunneling"]
   },
   {
     "fullName": "Circular Polarised, Uni-Directional Mine/Tunnel Antenna; Wi-Fi",
@@ -3147,9 +3093,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0011-V2-01-L-Uni-Directional-Mine-Tunnel-Front-View-1.png",
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0011-V2-01-L-Uni-Directional-Mine-Tunnel-Side-View-1.png"
     ],
-    "categories": [
-      "Mining & Tunneling"
-    ]
+    "categories": ["Mining & Tunneling"]
   },
   {
     "fullName": "Circular Polarised, Bi-Directional Mine/Tunnel Antenna; Wi-Fi",
@@ -3173,9 +3117,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0008-Bi-Directional-Mine-Tunnel-Front-View.png",
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0008-Bi-Directional-Mine-Tunnel-Side-View.png"
     ],
-    "categories": [
-      "Mining & Tunneling"
-    ]
+    "categories": ["Mining & Tunneling"]
   },
   {
     "fullName": "X-Polarised, Omni-Directional, 4x4 MIMO Antenna",
@@ -3219,9 +3161,7 @@
     "srcArray": [
       "https://poynting.tech/wp-content/uploads/product-images/accessories/A-ADPT-026-LTE-Antenna-Adaptor-Featured-Image.png"
     ],
-    "categories": [
-      "Urban & Rural Cellular"
-    ]
+    "categories": ["Urban & Rural Cellular"]
   },
   {
     "fullName": "Circular Polarised, Uni-Directional, 2x2 MIMO Wi-Fi Mine/Tunnel Antenna",
@@ -3247,9 +3187,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0051-V1-01-Circular-Polarised-Bi-Directional-Mine-Tunnel-Wi-Fi-Antenna-Side-Right-View.png",
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0051-V1-01-Circular-Polarised-Bi-Directional-Mine-Tunnel-Wi-Fi-Antenna-Featured-Bracket.png"
     ],
-    "categories": [
-      "Mining & Tunneling"
-    ]
+    "categories": ["Mining & Tunneling"]
   },
   {
     "fullName": "",
@@ -3295,10 +3233,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/omni-series/A-OMNI-0785-V1-01-Side-View.png",
       "https://poynting.tech/wp-content/uploads/product-images/omni-series/A-OMNI-0785-V1-01-Back-View.png"
     ],
-    "categories": [
-      "Commercial & Industrial",
-      "Urban & Rural Cellular"
-    ]
+    "categories": ["Commercial & Industrial", "Urban & Rural Cellular"]
   },
   {
     "fullName": "",
@@ -3377,10 +3312,7 @@
       "https://poynting.tech/wp-content/uploads/A-BRKT-46-V2-Mining-Tunnel-Roof-Mount-Bracket-for-HELI-Antennas-4x4-Back-View.png",
       "https://poynting.tech/wp-content/uploads/A-BRKT-46-V2-Mining-Tunnel-Roof-Mount-Bracket-for-HELI-Antennas-4x4-Side-View.png"
     ],
-    "categories": [
-      "Mining & Tunneling",
-      "Urban & Rural Cellular"
-    ]
+    "categories": ["Mining & Tunneling", "Urban & Rural Cellular"]
   },
   {
     "fullName": "",
@@ -3417,10 +3349,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/accessories/A-BRKT-047-V2-01-Mining-Bracket-Front-View.png",
       "https://poynting.tech/wp-content/uploads/product-images/accessories/A-BRKT-047-V2-01-Mining-Bracket-Side-View.png"
     ],
-    "categories": [
-      "Mining & Tunneling",
-      "Urban & Rural Cellular"
-    ]
+    "categories": ["Mining & Tunneling", "Urban & Rural Cellular"]
   },
   {
     "fullName": "",
@@ -3437,10 +3366,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/accessories/A-BRKT-045-V2-01-Mining-Bracket-Front-View.png",
       "https://poynting.tech/wp-content/uploads/product-images/accessories/A-BRKT-045-V2-01-Mining-Bracket-Side-View.png"
     ],
-    "categories": [
-      "Mining & Tunneling",
-      "Urban & Rural Cellular"
-    ]
+    "categories": ["Mining & Tunneling", "Urban & Rural Cellular"]
   },
   {
     "fullName": "",
@@ -3457,10 +3383,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/accessories/A-BRKT-038-Marine-Bracket-Front-View.png",
       "https://poynting.tech/wp-content/uploads/product-images/accessories/A-BRKT-038-Marine-Bracket-Side-View.png"
     ],
-    "categories": [
-      "Marine & Coastal",
-      "Transportation & Mobility"
-    ]
+    "categories": ["Marine & Coastal", "Transportation & Mobility"]
   },
   {
     "fullName": "",
@@ -3619,9 +3542,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0017-V2-01-L-Wi-Fi-Mine-Tunnel-Front-View-1.png",
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0017-V2-01-L-Wi-Fi-Mine-Tunnel-Side-View-1.png"
     ],
-    "categories": [
-      "Mining & Tunneling"
-    ]
+    "categories": ["Mining & Tunneling"]
   },
   {
     "fullName": "Circular Polarised, Bi-Directional Mine/Tunnel Antenna; Wi-Fi",
@@ -3645,9 +3566,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0008-IS-Bi-Directional-Mine-Tunnel-Front-View.png",
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0008-IS-Bi-Directional-Mine-Tunnel-Side-View.png"
     ],
-    "categories": [
-      "Mining & Tunneling"
-    ]
+    "categories": ["Mining & Tunneling"]
   },
   {
     "fullName": "Circular Polarised, Uni-Directional Mine/Tunnel Antenna; Wi-Fi",
@@ -3671,9 +3590,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0004-IS-Directional-Mine-Tunnel-Front-View.png",
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0004-IS-Directional-Mine-Tunnel-Side-View.png"
     ],
-    "categories": [
-      "Mining & Tunneling"
-    ]
+    "categories": ["Mining & Tunneling"]
   },
   {
     "fullName": "Circular Polarised, Uni-Directional Mine/Tunnel Antenna; Wi-Fi",
@@ -3697,9 +3614,7 @@
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0004-Directional-Mine-Tunnel-Front-View.png",
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0004-Directional-Mine-Tunnel-Side-View.png"
     ],
-    "categories": [
-      "Mining & Tunneling"
-    ]
+    "categories": ["Mining & Tunneling"]
   },
   {
     "fullName": "Circular Polarised, Uni-Directional Mine/Tunnel Antenna;Wi-Fi",
@@ -3722,8 +3637,6 @@
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0003-IS-Directional-Mine-Tunnel-Back-View.png",
       "https://poynting.tech/wp-content/uploads/product-images/heli-series/A-HELI-0003-IS-Directional-Mine-Tunnel-Front-View.png"
     ],
-    "categories": [
-      "Mining & Tunneling"
-    ]
+    "categories": ["Mining & Tunneling"]
   }
 ]

@@ -2,6 +2,9 @@ const fs = require("fs");
 const axios = require("axios");
 const cheerio = require("cheerio");
 const path = require("path");
+const util = require("util");
+const readFile = util.promisify(fs.readFile);
+const writeFile = util.promisify(fs.writeFile);
 
 class crawl {
   async crawlData(req, res) {
@@ -351,6 +354,87 @@ class crawl {
         }
       }
     });
+  }
+
+  async convertJsonToCsv(req, res) {
+    fs.readFile("output.json", "utf8", async (err, data) => {
+      if (err) {
+        console.error("Error reading file:", err);
+        return;
+      }
+
+      // Parse dữ liệu từ chuỗi JSON
+      const outputData = JSON.parse(data);
+      const csvRows = [];
+
+      for (const item of outputData) {
+        const skuValues = item.productOptions.map(option => option.SKU);
+        const csvRow = {
+          "ID": item.shortName,
+          "Type": "simple",
+          "SKU": skuValues.join(", "),
+          "Name": item.fullName,
+          "Published": 1,
+          "Is featured": 0,
+          "Visibility in catalog": "visible",
+          "Short description": item.description,
+          "Description": item.productOverview,
+          "Date sale price starts": "",
+          "Date sale price ends": "",
+          "Tax status": "taxable",
+          "Tax class": "",
+          "In stock?": 1,
+          "Stock": "",
+          "Low stock amount": "",
+          "Backorders allowed?": 0,
+          "Sold individually?": 0,
+          "Weight (kg)": "",
+          "Length (cm)": "",
+          "Width (cm)": "",
+          "Height (cm)": "",
+          "Allow customer reviews?": 1,
+          "Purchase note": "",
+          "Sale price": "",
+          "Regular price": "",
+          "Categories": item.categories.join(", "),
+          "Tags": item.categories.join(", "),
+          "Shipping class": "",
+          "Images": `http://localhost:8080/wordpress/wp-content/uploads/productImg/${item.shortName}/image1.png`,
+          "Download limit": "",
+          "Download expiry days": "",
+          "Parent": "",
+          "Grouped products": "",
+          "Upsells": "",
+          "Cross-sells": "",
+          "External URL": "",
+          "Button text": "",
+          "Position": 0,
+        };
+
+        csvRows.push(csvRow);
+      }
+
+      // Convert the array of rows to a CSV string
+      const csvString = await convertRowsToCsv(csvRows);
+
+      // Write the CSV string to a file
+      await writeFile("output.csv", csvString, "utf8");
+
+      // Respond with success or send the CSV file in the response
+      res.status(200).send("CSV conversion successful");
+    });
+    // Helper function to convert an array of rows to CSV string
+    function convertRowsToCsv(rows) {
+      return new Promise((resolve) => {
+        const csvRows = rows.map((row) =>
+          Object.values(row)
+            .map((value) => `"${value}"`)
+            .join(",")
+        );
+        const csvString = csvRows.join("\n");
+        resolve(csvString);
+      });
+    }
   }
 }
 

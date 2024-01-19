@@ -1,0 +1,31 @@
+ID,Type,SKU,Name,Published,Is featured?,Visibility in catalog,Short description,Description,Date sale price starts,Date sale price ends,Tax status,Tax class,In stock?,Stock,Low stock amount,Backorders allowed?,Sold individually?,Weight (kg),Length (cm),Width (cm),Height (cm),Allow customer reviews?,Purchase note,Sale price,Regular price,Categories,Tags,Shipping class,Images,Download limit,Download expiry days,Parent,Grouped products,Upsells,Cross-sells,External URL,Button text,Position
+XPOL-1-5G,simple,,"X-Polarised, Omni-Directional, 2X2 LTE MIMO Antenna",1,0,visible," Exceptional performance over the main 4G/5G bands
+ High gain for the antenna size
+ Wideband 2x2 or 4x4 MIMO 4G/5G antenna
+ Backwards compatible 2G/3G/4G/LTE/5G antenna
+ Weather, dust and vandal resistant enclosure (IP 65)","The XPOL-1-5G is Poynting’s second generation “V2” of this very popular Cross Polarised (XPOL), cellular band, 2×2 MIMO antenna. The addition of a 4X4 MIMO derivative is also available for user specific needs. The antenna has been completely redesigned form the previous generation with an all new enclosure and antenna design. The antenna now includes the newer 3400 – 3800 MHz bands as well as the in demand lower 617 MHz band, which were not previously covered by our V1 and is suitable for 2G, 3G, 4G & 5G. This antenna performs exceptionally well in the following frequency bands: 617 – 960 MHz, 1700 – 2170 MHz, 2300 – 2700 MHz & 3400 – 3800 MHz, with a peak gain of 4 dBi across the frequency bands of operation. 
+ The radiation patterns of this antenna are omni-directional and exceptionally well controlled, further adding to the performance of the antenna. This makes the antenna perfect for most application areas, such as urban, rural, agricultural and commercial, to achieve the best possible coverage over a large area. The robust mechanical enclosure design makes the antenna weather, dust and vandal resistant and gives it an IP65 rating, suitable for harsh environments.
+",,,taxable,,1,0,,0,0,,,,,1,,,,"Commercial & Industrial, Farming & Agricultural, IoT, M2M & Smart Meters , Mining & Tunneling, Urban & Rural Cellular","Commercial & Industrial, Farming & Agricultural, IoT, M2M & Smart Meters , Mining & Tunneling, Urban & Rural Cellular",,http://localhost:8080/wordpress/wp-content/uploads/productImg/XPOL-1-5G/image1.png,,,,,,,,,0
+XPOL-24,simple,,"X-Polarised, Uni-Directional 4x4 MIMO 5G/LTE Antenna",1,0,visible," Exceptional high-performance antenna over main 5G/LTE bands
+ New advanced metamaterial technology for high performance
+ Wideband 4x4 MIMO 5G/LTE antenna from 617 to 4200 MHz
+ Four cross-polarised antennas within a single enclosure
+ Weather, dust and vandal resistant enclosure with IP65 raing","The XPOL-24 expands Poynting’s very popular Cross Polarised (XPOL) antenna range. The XPOL-24 is our first ever 4×4 MIMO 5G/LTE bands with exceptional performance. This is due to the incorporation of advanced metamaterial technology, making use of an Artificial Magnetic Conductor (AMC) and new registered/patent configuration, which has proven to yield exceptional improvements in bandwidth and gain. The radiation patterns of this antenna are exceptionally well controlled, which further adds to exceptional performance of the antenna.
+The XPOL-24 offers wideband frequency coverage from 617 to 4200 MHz, with a peak gain of 11dBi across the bands of operation. The antenna performs exceptionally well in the following frequency bands: 617 – 960 MHz, 1710 – 2170 MHz, 2300 – 2700 MHz & 3400 – 4200 MHz. The exceptional wideband performance is an important factor for 5G/LTE technologies, as these technologies rely on features such as Carrier Aggregation (CA) to provide the best possible reception and throughput over multiple frequency bands simultaneously. This makes the XPOL-24 the go to solution for current and future 5G/LTE antenna deployments.
+",,,taxable,,1,0,,0,0,,,,,1,,,,"Commercial & Industrial, Farming & Agricultural, IoT, M2M & Smart Meters , Mining & Tunneling, Urban & Rural Cellular","Commercial & Industrial, Farming & Agricultural, IoT, M2M & Smart Meters , Mining & Tunneling, Urban & Rural Cellular",,http://localhost:8080/wordpress/wp-content/uploads/productImg/XPOL-24/image1.png,,,,,,,,,0
+XPOL-6,"simple, virtual",,"X-Polarised, High Gain, Directional LTE Antenna (2X2 MIMO)",1,0,visible," Cross-polarised with high-gain for LTE applications
+ Futureproof wideband LTE antenna and Wi-Fi operational frequencies
+ Backwards compatible with 2G and 3G technologies
+ Two antennas in one enclosure for optimal LTE performance
+ 2X2 MIMO LTE/4G antenna
+ Increased connectivity stability","The XPOL-6 is a unique antenna, which provides a unique solution with a constant high gain for 4G, 3G and 2G networks. The XPOL-6 is a dual-polarised full LTE band antenna and is wall- or pole-mountable. The antenna is equipped to provide client-side MIMO and diversity support for the networks of today and tomorrow. This is done by incorporating two separately fed ultra-wideband elements in a single housing, which is a cost-effective solution for enhancing signal reception. The XPOL-6 antenna increases signal reliability, ensures higher data throughput for users and provides a stable, high quality connection. This improves subscriber’s user experience and secures client retention. It is ideal for any application using the GSM network (LTE/ HSPA/3G/EDGE/GPRS).
+",,,taxable,,1,0,,0,0,,,,,1,,1900000,2000000,"Commercial & Industrial, Farming & Agricultural, IoT, M2M & Smart Meters , Mining & Tunneling, Urban & Rural Cellular","Commercial & Industrial, Farming & Agricultural, IoT, M2M & Smart Meters , Mining & Tunneling, Urban & Rural Cellular",,http://localhost:8080/wordpress/wp-content/uploads/productImg/XPOL-6/image1.png,,,,,,,,,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
