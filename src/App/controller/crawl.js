@@ -368,23 +368,23 @@ class crawl {
       const csvRows = [];
 
       for (const item of outputData) {
-        const skuValues = item.productOptions.map(option => option.SKU);
+        const skuValues = item.productOptions.map((option) => option.SKU);
         const csvRow = {
-          "ID": item.shortName,
-          "Type": "simple",
-          "SKU": skuValues.join(", "),
-          "Name": item.fullName,
-          "Published": 1,
+          ID: item.shortName,
+          Type: "simple",
+          SKU: skuValues.join(", "),
+          Name: item.fullName,
+          Published: 1,
           "Is featured": 0,
           "Visibility in catalog": "visible",
           "Short description": item.description,
-          "Description": item.productOverview,
+          Description: item.productOverview,
           "Date sale price starts": "",
           "Date sale price ends": "",
           "Tax status": "taxable",
           "Tax class": "",
           "In stock?": 1,
-          "Stock": "",
+          Stock: "",
           "Low stock amount": "",
           "Backorders allowed?": 0,
           "Sold individually?": 0,
@@ -396,19 +396,19 @@ class crawl {
           "Purchase note": "",
           "Sale price": "",
           "Regular price": "",
-          "Categories": item.categories.join(", "),
-          "Tags": item.categories.join(", "),
+          Categories: item.categories.join(", "),
+          Tags: item.categories.join(", "),
           "Shipping class": "",
-          "Images": `http://localhost:8080/wordpress/wp-content/uploads/productImg/${item.shortName}/image1.png`,
+          Images: `http://localhost:8080/wordpress/wp-content/uploads/productImg/${item.shortName}/image1.png`,
           "Download limit": "",
           "Download expiry days": "",
-          "Parent": "",
+          Parent: "",
           "Grouped products": "",
-          "Upsells": "",
+          Upsells: "",
           "Cross-sells": "",
           "External URL": "",
           "Button text": "",
-          "Position": 0,
+          Position: 0,
         };
 
         csvRows.push(csvRow);
@@ -434,6 +434,58 @@ class crawl {
         const csvString = csvRows.join("\n");
         resolve(csvString);
       });
+    }
+  }
+
+  async handleData(req, res) {
+    try {
+      // Đọc dữ liệu từ file list_name.txt
+      const productList = fs
+        .readFileSync("list_name.txt", "utf-8")
+        .split("\n")
+        .map((name) => name.trim());
+
+      // Đọc dữ liệu từ file output.json
+      const jsonData = fs.readFileSync("output.json", "utf-8");
+      const outputData = JSON.parse(jsonData);
+
+      // Duyệt qua mảng chứa các object
+      for (const item of outputData) {
+        // Kiểm tra xem shortName có trong danh sách không
+        if (productList.includes(item.shortName)) {
+          // Nếu có, lấy thông tin textInner và ghi vào file
+          const textInner = item.textInner;
+          const textParametor = item.parameter;
+
+          let SKU = "";
+          let COAX_Cable_Length = "";
+          let COAX_Cable_Type = "";
+          let Color = "";
+          if (item.productOptions.length > 0) {
+            SKU = item.productOptions[0].SKU;
+            COAX_Cable_Type = item.productOptions[0].COAX_Cable_Type;
+            COAX_Cable_Length = item.productOptions[0].COAX_Cable_Length;
+            Color = item.productOptions[0].Color;
+          }
+          fs.appendFileSync("output_textInner.txt", `${textInner}\n`);
+          fs.appendFileSync("output_parameter.txt", `${textParametor}\n`);
+          fs.appendFileSync("output_SKU.txt", `${SKU}\n`);
+          fs.appendFileSync(           
+            "output_COAX_Cable_Type.txt",
+            `${COAX_Cable_Type}\n`
+          );
+          fs.appendFileSync(
+            "output_COAX_Cable_Length.txt",
+            `${COAX_Cable_Length}\n`
+          );
+          fs.appendFileSync("output_Color.txt", `${Color}\n`);
+        }
+      }
+
+      res.status(200).send("Xử lý thành công!");
+    } catch (error) {
+      console.error("Lỗi xử lý:", error);
+      res.status(500).send("Có lỗi xảy ra trong quá trình xử lý.");
     }
   }
 }

@@ -7,5 +7,6 @@ router.get("/data-detail", crawl.crawlDataDetail);
 router.post("/add-categories", crawl.addCategories);
 router.get("/download-img", crawl.downloadImg);
 router.get("/convert-json-to-csv", crawl.convertJsonToCsv);
+router.get("/handle-data" , crawl.handleData)
 
 module.exports = router;
