@@ -1,0 +1,1921 @@
+[
+  {
+    "SKU": "PE51RD1001",
+    "Name": "2.4/4.9/5.8 GHz 3 dBi Multi-band Rubber Duck Antenna - RP-TNC Plug Connector",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51RD1001.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51RD1001.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Rubber Duck",
+      "Polarization": "Vertical",
+      "Connector 1 Polarity": "Reverse Polarity",
+      "Connector Series": "TNC",
+      "Connector Gender": "Plug",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "2:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 10.39
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 9.87
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 9.35
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 8.94
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "SKU": "Product ID: PE51RD1002",
+    "Name": "2.4/4.9/5.8 GHz 3 dBi Multi-band Rubber Duck Antenna - RP-SMA Plug Connector",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51RD1002.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51RD1002.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Rubber Duck",
+      "Polarization": "Vertical",
+      "Connector 1 Polarity": "Reverse Polarity",
+      "Connector Series": "SMA",
+      "Connector Gender": "Plug",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "2:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 27.39
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 26.02
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 24.65
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 23.56
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "SKU": "PE51OM1023",
+    "Name": "2.4 GHz 3 dBi Black Radome Enclosed Omni Antenna - Type-N Female Bulkhead",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51OM1023.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51OM1023.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Mobile",
+      "Polarization": "Vertical",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "1.5:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 59.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 56.99
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 53.99
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 51.59
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "\n                PE51OM1023 mobile radio antenna is one of over 40,000 RF,\n                microwave and millimeter wave components supplied from\n                Pasternack. Our mobile aerial can be bought and shipped\n                worldwide the same-day as with our other in-stock RF parts.\n              "
+  },
+  {
+    "SKU": "PE51RD1003",
+    "Name": "2.4/4.9/5.8 GHz 3 dBi Multi-band Rubber Duck Antenna - TNC-Male Connector",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51RD1003.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51RD1003.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Rubber Duck",
+      "Polarization": "Vertical",
+      "Connector 1 Polarity": "Reverse Polarity",
+      "Connector Series": "TNC",
+      "Connector Gender": "Male",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "2:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 28.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 27.54
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 26.09
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 24.93
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "SKU": "PE51RD1007",
+    "Name": "2.4 GHz 5 dBi Rubber Duck Antenna - RP-SMA Plug Connector",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51RD1007.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51RD1007.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Rubber Duck",
+      "Polarization": "Vertical",
+      "Connector 1 Polarity": "Reverse Polarity",
+      "Connector Series": "SMA",
+      "Connector Gender": "Plug",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "2:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 14.79
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 14.05
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 13.31
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 12.72
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "SKU": "PE51RD1004",
+    "Name": "2.4/4.9/5.8 GHz 3 dBi Multi-band Rubber Duck Antenna - SMA-Male Connector",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51RD1004.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51RD1004.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Rubber Duck",
+      "Polarization": "Vertical",
+      "Connector 1 Polarity": "Reverse Polarity",
+      "Connector Series": "SMA",
+      "Connector Gender": "Male",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "2:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 22.79
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 21.65
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 20.51
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 19.6
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "SKU": "PE51OM1022",
+    "Name": "2.4 GHz/900 MHz 3 dBi Omni Antenna - NMO Connector",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51OM1022.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51OM1022.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Mobile",
+      "Polarization": "Vertical",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "NMO Mount",
+      "Impedance": "50 Ohm"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 46.79
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 44.45
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 42.11
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 40.24
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "\n                PE51OM1022 mobile radio antenna is one of over 40,000 RF,\n                microwave and millimeter wave components supplied from\n                Pasternack. Our mobile aerial can be bought and shipped\n                worldwide the same-day as with our other in-stock RF parts.\n              "
+  },
+  {
+    "SKU": "PE51LP1001",
+    "Name": "698-960/1710-2700 MHz 10 dBi Log Periodic Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51LP1001.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51LP1001.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Log Periodic",
+      "Polarization": "Vertical or Horizontal",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Nominal Gain": "9 dB",
+      "Maximum Input VSWR": "1.6:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 113.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 108.29
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 102.59
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 98.03
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "SKU": "PE51FP1011",
+    "Name": "4.9-5.8 GHz 19dBi Dual Polarized Panel Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51FP1011.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51FP1011.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Panel",
+      "Polarization": "Vertical or Horizontal",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "1.8:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 161.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 153.89
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 145.79
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 139.31
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "\n                PE51FP1011 radio frequency panel / patch antenna is part of over\n                40,000 RF, microwave and millimeter wave components available\n                from Pasternack. Our panel aerial can ship worldwide the same\n                day of the purchase as with our other available RF parts.\n              "
+  },
+  {
+    "SKU": "PE51PD1002",
+    "Name": "4.9-5.8 GHz Dual Polarized/X-Polarity 30dBi Dish Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51PD1002.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51PD1002.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Dish",
+      "Polarization": "H/V or 45 Deg. Slant",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "1.5:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 285.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 271.69
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 257.39
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 245.95
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "SKU": "PE51FP1005",
+    "Name": "900 MHz 8 dBi Flat Patch Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51FP1005.jpg",
+      "https://www.pasternack.com/images/Product/large/PE51FP1005_1.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51FP1005.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Panel",
+      "Polarization": "Vertical or Horizontal",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "1.5:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 107.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 102.59
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 97.19
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 92.87
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "\n                PE51FP1005 radio frequency panel / patch antenna is part of over\n                40,000 RF, microwave and millimeter wave components available\n                from Pasternack. Our panel aerial can ship worldwide the same\n                day of the purchase as with our other available RF parts.\n              "
+  },
+  {
+    "SKU": "PESMA1007",
+    "Name": "2400-2500 MHz, 2.3 dBi, Stamped Metal AP/Router Embedded Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PESMA1007.jpg",
+      "https://www.pasternack.com/images/Product/large/PESMA1007_1.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PESMA1007.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Stamped Metal",
+      "Polarization": "Linear",
+      "Minimum Frequency": "2.4 GHz",
+      "Maximum Frequency": "2.5 GHz",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "2:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 0.72
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 0.68
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 0.65
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 0.62
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "Linear polarized antenna PESMA1007 from Pasternack is part ofour extensive in-stock omni directional antennas that ship thesame day from our ISO 9001:2015 certified facility. Thestamped metal antenna has a maximum frequency of 2500 MHz anda minimum frequency of 2400 MHz. This stamped metal antennahas a maximum input VSWR of 2:1.\n                This stamped metal antenna has an overall length of 1.11inches and a width of 0.32 inches. Pasternack’s PESMA1007 is asingle band antenna operating from 2400 to 2500 MHz with a 2.3dBi gain. Our high-quality omni directional antenna has animpedance of 50 Ohms.\n                Pasternack's experts are on hand to assist you with anyinquiries. Order this PESMA1007 stamped metal antenna 7 days aweek, 24 hours a day, using our on-line ordering system withno MOQs (minimum order quantity) and same-day shipping. Ourknowledgeable sales team and ability in the globalavailability market allow us to lead the industry in supplyingRF products like these omni directional antennas.\n                "
+  },
+  {
+    "SKU": "PE51FP1003",
+    "Name": "2.4/4.9-5.8 GHz High Density 4-Element, Dual Polarized MIMO Flat Panel Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51FP1003.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51FP1003.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Panel",
+      "Polarization": "Vertical/Horizontal",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "2:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 127.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 121.59
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 115.19
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 110.07
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "\n                PE51FP1003 radio frequency panel / patch antenna is part of over\n                40,000 RF, microwave and millimeter wave components available\n                from Pasternack. Our panel aerial can ship worldwide the same\n                day of the purchase as with our other available RF parts.\n              "
+  },
+  {
+    "SKU": "PESMA1008",
+    "Name": "2400-2500/ 5150-5825 MHz, 2.82/3.43 dBi, Stamped Metal AP/Router Embedded Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PESMA1008.jpg",
+      "https://www.pasternack.com/images/Product/large/PESMA1008_1.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PESMA1008.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Stamped Metal",
+      "Polarization": "Linear",
+      "Minimum Frequency": "2.4 GHz",
+      "Maximum Frequency": "5.825 GHz",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "2:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 0.9
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 0.86
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 0.81
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 0.77
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "Linear polarized antenna PESMA1008 from Pasternack is part ofour extensive in-stock omni directional antennas that ship thesame day from our ISO 9001:2015 certified facility. Thestamped metal antenna has a maximum frequency of 5825 MHz anda minimum frequency of 2400 MHz. This stamped metal antennahas a maximum input VSWR of 2:1.\n                This stamped metal antenna has an overall length of 1.46inches and a width of 0.33 inches. Pasternack’s PESMA1008 is adual band antenna operating from 2400 to 2500 MHz with 2.82dBi gain and 5150 to 5825 MHz with 3.43 dBi gain. Ourhigh-quality omni directional antenna has an impedance of 50Ohms.\n                Pasternack's experts are on hand to assist you with anyinquiries. Order this PESMA1008 stamped metal antenna 7 days aweek, 24 hours a day, using our on-line ordering system withno MOQs (minimum order quantity) and same-day shipping. Ourknowledgeable sales team and ability in the globalavailability market allow us to lead the industry in supplyingRF products like these omni directional antennas.\n                "
+  },
+  {
+    "SKU": "Product ID: PE51SE1001",
+    "Name": "2.4 GHz 14 dBi 90 Degree Dual Polarized / Dual Feed Sector Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51SE1001.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51SE1001.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Sector",
+      "Polarization": "Vertical or Horizontal",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "1.5:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 367.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 349.59
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 331.19
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 316.47
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "SKU": "PESMA1009",
+    "Name": "1800-1900 MHz, 3 dBi, Stamped Metal DECT Embedded Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PESMA1009.jpg",
+      "https://www.pasternack.com/images/Product/large/PESMA1009_1.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PESMA1009.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Stamped Metal",
+      "Polarization": "Linear",
+      "Minimum Frequency": "1.8 GHz",
+      "Maximum Frequency": "1.9 GHz",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "2:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 0.77
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 0.73
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 0.69
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 0.66
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "Linear polarized antenna PESMA1009 from Pasternack is part ofour extensive in-stock omni directional antennas that ship thesame day from our ISO 9001:2015 certified facility. Thestamped metal antenna has a maximum frequency of 1900 MHz anda minimum frequency of 1800 MHz. This stamped metal antennahas a maximum input VSWR of 2:1.\n                This stamped metal antenna has an overall length of 1.14inches and a width of 0.6 inches. Pasternack’s PESMA1009 is asingle band antenna operating from 1800 to 1900 MHz with a 3dBi gain. Our high-quality omni directional antenna has animpedance of 50 Ohms.\n                Pasternack's experts are on hand to assist you with anyinquiries. Order this PESMA1009 stamped metal antenna 7 days aweek, 24 hours a day, using our on-line ordering system withno MOQs (minimum order quantity) and same-day shipping. Ourknowledgeable sales team and ability in the globalavailability market allow us to lead the industry in supplyingRF products like these omni directional antennas.\n                "
+  },
+  {
+    "SKU": "PE51SE1004",
+    "Name": "698-960/1710-2700 MHz 65 Degree Cross-Polarized Sector DAS Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51SE1004.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51SE1004.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Sector",
+      "Polarization": "45 Deg. Slant",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Nominal Gain": "9 dB",
+      "Maximum Input VSWR": "1.9:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 319.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 303.99
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 287.99
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 275.19
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "SKU": "PE51YA1013",
+    "Name": "900 MHz 13 dBi SS Yagi Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51YA1013.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51YA1013.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Yagi",
+      "Polarization": "Vertical or Horizontal",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "1.5:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 107.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 102.59
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 97.19
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 92.87
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "\n                PE51YA1013 Yagi antenna is one of over 40,000 RF, microwave and\n                millimeter wave components available from Pasternack. Our Yagi\n                aerial can ship worldwide the same-day of the purchase as with\n                our other available RF parts.\n              "
+  },
+  {
+    "SKU": "PE51RD1005",
+    "Name": "2.4-2.5 GHz and 5.1- 5.8 GHz Dual Band Rubber Duck Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51RD1005.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51RD1005.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Rubber Duck",
+      "Polarization": "Vertical",
+      "Connector 1 Polarity": "Reverse Polarity",
+      "Connector Series": "SMA",
+      "Connector Gender": "Plug",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "2:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 31.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 30.39
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 28.79
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 27.51
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "SKU": "PE51PD1001",
+    "Name": "4.9-5.8 GHz Dual Polarized/X-Polarity 25dBi Dish Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51PD1001.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51PD1001.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Dish",
+      "Polarization": "H/V or 45 Deg. Slant",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "1.5:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 85.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 81.69
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 77.39
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 73.95
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "SKU": "PE51YA1004",
+    "Name": "2.4 GHz 12 dBi Stainless Steel Yagi Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51YA1004.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51YA1004.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Yagi",
+      "Polarization": "Vertical",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "1.5:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 92.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 88.34
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 83.69
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 79.97
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "\n                PE51YA1004 Yagi antenna is one of over 40,000 RF, microwave and\n                millimeter wave components available from Pasternack. Our Yagi\n                aerial can ship worldwide the same-day of the purchase as with\n                our other available RF parts.\n              "
+  },
+  {
+    "SKU": "PE51SE1007",
+    "Name": "2.4/5.8 GHz Dipole MIMO Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51SE1007.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51SE1007.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Sector",
+      "Polarization": "Vertical or Horizontal",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "1.5:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 51.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 49.39
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 46.79
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 44.71
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "SKU": "PE51RD1006",
+    "Name": "2.4-2.5 GHz / 5.1-5.9 GHz 7dBi Dual Band Rigid Rubberduck Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51RD1006.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51RD1006.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Rubber Duck",
+      "Polarization": "Vertical",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Male",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "2:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 43.39
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 41.22
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 39.05
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 37.32
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "SKU": "PESMA1001",
+    "Name": "2400-2500/ 4900-5825 MHz, 3.5/5 dBi, Stamped Metal AP/Router Embedded Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PESMA1001.jpg",
+      "https://www.pasternack.com/images/Product/large/PESMA1001_1.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PESMA1001.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Stamped Metal",
+      "Polarization": "Linear",
+      "Minimum Frequency": "2.4 GHz",
+      "Maximum Frequency": "5.825 GHz",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "2:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 2.57
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 2.44
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 2.31
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 2.21
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "Linear polarized antenna PESMA1001 from Pasternack is part ofour extensive in-stock omni directional antennas that ship thesame day from our ISO 9001:2015 certified facility. Thestamped metal antenna has a maximum frequency of 5825 MHz anda minimum frequency of 2400 MHz. This stamped metal antennahas a maximum input VSWR of 2:1.\n                This stamped metal antenna has an overall length of 2.16inches and a width of 0.7 inches. Pasternack’s PESMA1001 is adual band antenna operating from 2400 to 2500 MHz with 3.5 dBigain and 4900 to 5825 MHz with 5 dBi gain. Our high-qualityomni directional antenna has an impedance of 50 Ohms.\n                Pasternack's experts are on hand to assist you with anyinquiries. Order this PESMA1001 stamped metal antenna 7 days aweek, 24 hours a day, using our on-line ordering system withno MOQs (minimum order quantity) and same-day shipping. Ourknowledgeable sales team and ability in the globalavailability market allow us to lead the industry in supplyingRF products like these omni directional antennas.\n                "
+  },
+  {
+    "SKU": "PE51YA1012",
+    "Name": "900 MHz 9 dBi SS Yagi Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51YA1012.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51YA1012.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Yagi",
+      "Polarization": "Vertical or Horizontal",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "1.5:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 69.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 66.49
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 62.99
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 60.19
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "\n                PE51YA1012 Yagi antenna is one of over 40,000 RF, microwave and\n                millimeter wave components available from Pasternack. Our Yagi\n                aerial can ship worldwide the same-day of the purchase as with\n                our other available RF parts.\n              "
+  },
+  {
+    "SKU": "PE51FP1002",
+    "Name": "2.4/4.9-5.8 GHz Six Element, Dual Polarized MIMO Flat Panel Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51FP1002.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51FP1002.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Panel",
+      "Polarization": "Vertical/Horizontal",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "2:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 253.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 241.29
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 228.59
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 218.43
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "\n                PE51FP1002 radio frequency panel / patch antenna is part of over\n                40,000 RF, microwave and millimeter wave components available\n                from Pasternack. Our panel aerial can ship worldwide the same\n                day of the purchase as with our other available RF parts.\n              "
+  },
+  {
+    "SKU": "PE51SE1003",
+    "Name": "900 MHz 13 dBi 120 Degree Horizontal Polarized Sector Panel Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51SE1003.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51SE1003.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Sector",
+      "Polarization": "Horizontal",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "2:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 229.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 218.49
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 206.99
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 197.79
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "SKU": "Product ID: PE51YA1005",
+    "Name": "5.8 GHz 16.5 dBi Yagi Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51YA1005.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51YA1005.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Yagi",
+      "Polarization": "Vertical",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "1.5:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 139.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 132.99
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 125.99
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 120.39
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "PE51YA1005 Yagi antenna is one of over 40,000 RF, microwave and millimeter wave components available from Pasternack. Our Yagi aerial can ship worldwide the same-day of the purchase as with our other available RF parts."
+  },
+  {
+    "SKU": "PE51FP1001",
+    "Name": "2.4/5.8GHz 10 dBi Dual Polarity MIMO Panel Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51FP1001.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51FP1001.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Panel",
+      "Polarization": "Vertical/Horizontal",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 71.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 68.39
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 64.79
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 61.91
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "\n                PE51FP1001 radio frequency panel / patch antenna is part of over\n                40,000 RF, microwave and millimeter wave components available\n                from Pasternack. Our panel aerial can ship worldwide the same\n                day of the purchase as with our other available RF parts.\n              "
+  },
+  {
+    "SKU": "PE51YA1009",
+    "Name": "900 MHz 9 dBi Al Yagi Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51YA1009.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51YA1009.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Yagi",
+      "Polarization": "Vertical or Horizontal",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "1.5:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 69.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 66.49
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 62.99
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 60.19
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "\n                PE51YA1009 Yagi antenna is one of over 40,000 RF, microwave and\n                millimeter wave components available from Pasternack. Our Yagi\n                aerial can ship worldwide the same-day of the purchase as with\n                our other available RF parts.\n              "
+  },
+  {
+    "SKU": "PESMA1005",
+    "Name": "2400-2500/ 5150-5825 MHz, 2/3 dBi, Stamped Metal AP/Router Embedded Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PESMA1005.jpg",
+      "https://www.pasternack.com/images/Product/large/PESMA1005_1.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PESMA1005.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Stamped Metal",
+      "Polarization": "Linear",
+      "Minimum Frequency": "2.4 GHz",
+      "Maximum Frequency": "5.825 GHz",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "2:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 0.72
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 0.68
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 0.65
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 0.62
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "Linear polarized antenna PESMA1005 from Pasternack is part ofour extensive in-stock omni directional antennas that ship thesame day from our ISO 9001:2015 certified facility. Thestamped metal antenna has a maximum frequency of 5825 MHz anda minimum frequency of 2400 MHz. This stamped metal antennahas a maximum input VSWR of 2:1.\n                This stamped metal antenna has an overall length of 1.19inches and a width of 0.29 inches. Pasternack’s PESMA1005 is adual band antenna operating from 2400 to 2500 MHz with 2 dBigain and 5150 to 5825 MHz with 3 dBi gain. Our high-qualityomni directional antenna has an impedance of 50 Ohms.\n                Pasternack's experts are on hand to assist you with anyinquiries. Order this PESMA1005 stamped metal antenna 7 days aweek, 24 hours a day, using our on-line ordering system withno MOQs (minimum order quantity) and same-day shipping. Ourknowledgeable sales team and ability in the globalavailability market allow us to lead the industry in supplyingRF products like these omni directional antennas.\n                "
+  },
+  {
+    "SKU": "PESMA1002",
+    "Name": "2400-2500 MHz, 2 dBi, Stamped Metal AP/Router Embedded Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PESMA1002.jpg",
+      "https://www.pasternack.com/images/Product/large/PESMA1002_1.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PESMA1002.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Stamped Metal",
+      "Polarization": "Linear",
+      "Minimum Frequency": "2.4 GHz",
+      "Maximum Frequency": "2.5 GHz",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "2:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 0.72
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 0.68
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 0.65
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 0.62
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "Linear polarized antenna PESMA1002 from Pasternack is part ofour extensive in-stock omni directional antennas that ship thesame day from our ISO 9001:2015 certified facility. Thestamped metal antenna has a maximum frequency of 2500 MHz anda minimum frequency of 2400 MHz. This stamped metal antennahas a maximum input VSWR of 2:1.\n                This stamped metal antenna has an overall length of 1.22inches and a width of 0.32 inches. Pasternack’s PESMA1002 is asingle band antenna operating from 2400 to 2500 MHz with a 2dBi gain. Our high-quality omni directional antenna has animpedance of 50 Ohms.\n                Pasternack's experts are on hand to assist you with anyinquiries. Order this PESMA1002 stamped metal antenna 7 days aweek, 24 hours a day, using our on-line ordering system withno MOQs (minimum order quantity) and same-day shipping. Ourknowledgeable sales team and ability in the globalavailability market allow us to lead the industry in supplyingRF products like these omni directional antennas.\n                "
+  },
+  {
+    "SKU": "PE51YA1007",
+    "Name": "900 MHz 3 dBi Yagi Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51YA1007.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51YA1007.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Yagi",
+      "Polarization": "Vertical or Horizontal",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "1.5:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 60.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 57.94
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 54.89
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 52.45
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "\n                PE51YA1007 Yagi antenna is one of over 40,000 RF, microwave and\n                millimeter wave components available from Pasternack. Our Yagi\n                aerial can ship worldwide the same-day of the purchase as with\n                our other available RF parts.\n              "
+  },
+  {
+    "SKU": "PE51YA1001",
+    "Name": "2.4 GHz 9 dBi Yagi Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51YA1001.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51YA1001.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Yagi",
+      "Polarization": "Vertical or Horizontal",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "1.5:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 98.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 94.04
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 89.09
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 85.13
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "\n                PE51YA1001 Yagi antenna is one of over 40,000 RF, microwave and\n                millimeter wave components available from Pasternack. Our Yagi\n                aerial can ship worldwide the same-day of the purchase as with\n                our other available RF parts.\n              "
+  },
+  {
+    "SKU": "PE51PD1005",
+    "Name": "2.4 GHz 22 dBi Dual & X-Polarized/Dual Feed Parabolic Dish Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51PD1005.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51PD1005.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Reflector Dish",
+      "Polarization": "H/V or 45 Deg. Slant",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Male",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "1.5:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 157.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 150.09
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 142.19
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 135.87
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "SKU": "PE51PD1003",
+    "Name": "4.9-5.8 GHz Dual Polarized/X-Polarity 34dBi Dish Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51PD1003.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51PD1003.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Dish",
+      "Polarization": "H/V or 45 Deg. Slant",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "1.5:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 483.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 459.79
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 435.59
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 416.23
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "SKU": "PE51YA1008",
+    "Name": "900 MHz 6 dBi Yagi Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51YA1008.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51YA1008.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Yagi",
+      "Polarization": "Vertical or Horizontal",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "1.5:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 60.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 57.94
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 54.89
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 52.45
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "\n                PE51YA1008 Yagi antenna is one of over 40,000 RF, microwave and\n                millimeter wave components available from Pasternack. Our Yagi\n                aerial can ship worldwide the same-day of the purchase as with\n                our other available RF parts.\n              "
+  },
+  {
+    "SKU": "PE51PD1004",
+    "Name": "2.4 GHz 18 dBi Dual & X-Polarized/Dual Feed Parabolic Dish Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51PD1004.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51PD1004.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Reflector Dish",
+      "Polarization": "H/V or 45 Deg. Slant",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "1.5:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 201.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 191.89
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 181.79
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 173.71
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "SKU": "PE51PD1006",
+    "Name": "2.4 GHz 25 dBi Dual & X-Polarized/Dual Feed Parabolic Dish Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51PD1006.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51PD1006.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Reflector Dish",
+      "Polarization": "H/V or 45 Deg. Slant",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "1.5:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 481.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 457.89
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 433.79
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 414.51
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "SKU": "PE51FP1007",
+    "Name": "900 MHz 8 dBi LH Circular Polarized Patch Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51FP1007.jpg",
+      "https://www.pasternack.com/images/Product/large/PE51FP1007_1.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51FP1007.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Panel",
+      "Polarization": "LHCP",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Male",
+      "Impedance": "50 Ohm"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 89.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 85.49
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 80.99
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 77.39
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "\n                PE51FP1007 radio frequency panel / patch antenna is part of over\n                40,000 RF, microwave and millimeter wave components available\n                from Pasternack. Our panel aerial can ship worldwide the same\n                day of the purchase as with our other available RF parts.\n              "
+  },
+  {
+    "SKU": "PESMA1016",
+    "Name": "5900-7125 MHz, 3 dBi, Stamped Metal AP/Router Embedded Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PESMA1016.jpg",
+      "https://www.pasternack.com/images/Product/large/PESMA1016_1.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PESMA1016.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Stamped Metal",
+      "Polarization": "Linear",
+      "Minimum Frequency": "5.9 GHz",
+      "Maximum Frequency": "7.125 GHz",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "2:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 0.9
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 0.86
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 0.81
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 0.77
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "Linear polarized antenna PESMA1016 from Pasternack is part ofour extensive in-stock omni directional antennas that ship thesame day from our ISO 9001:2015 certified facility. Thestamped metal antenna has a maximum frequency of 7125 MHz anda minimum frequency of 5900 MHz. This stamped metal antennahas a maximum input VSWR of 2:1.\n                This stamped metal antenna has an overall length of 0.52inches and a width of 0.36 inches. Pasternack’s PESMA1016 is asingle band antenna operating from 5900 to 7125 MHz with a 3dBi gain. Our high-quality omni directional antenna has animpedance of 50 Ohms.\n                Pasternack's experts are on hand to assist you with anyinquiries. Order this PESMA1016 stamped metal antenna 7 days aweek, 24 hours a day, using our on-line ordering system withno MOQs (minimum order quantity) and same-day shipping. Ourknowledgeable sales team and ability in the globalavailability market allow us to lead the industry in supplyingRF products like these omni directional antennas.\n                "
+  },
+  {
+    "SKU": "PE51FP1004",
+    "Name": "2.4/4.9-5.8 GHz Four Element, Dual Polarized MIMO Flat Panel Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51FP1004.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51FP1004.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Panel",
+      "Polarization": "Vertical/Horizontal",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "2:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 259.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 246.99
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 233.99
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 223.59
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "\n                PE51FP1004 radio frequency panel / patch antenna is part of over\n                40,000 RF, microwave and millimeter wave components available\n                from Pasternack. Our panel aerial can ship worldwide the same\n                day of the purchase as with our other available RF parts.\n              "
+  },
+  {
+    "SKU": "PE51FP1006",
+    "Name": "9 dBi WideBand Panel Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51FP1006.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51FP1006.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Panel",
+      "Polarization": "Vertical or Horizontal",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "1.8:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 101.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 96.89
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 91.79
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 87.71
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "\n                PE51FP1006 radio frequency panel / patch antenna is part of over\n                40,000 RF, microwave and millimeter wave components available\n                from Pasternack. Our panel aerial can ship worldwide the same\n                day of the purchase as with our other available RF parts.\n              "
+  },
+  {
+    "SKU": "PESMA1013",
+    "Name": "2400-2500 MHz, 1.74 dBi, Stamped Metal AP/Router Embedded Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PESMA1013.jpg",
+      "https://www.pasternack.com/images/Product/large/PESMA1013_1.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PESMA1013.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Stamped Metal",
+      "Polarization": "Linear",
+      "Minimum Frequency": "2.4 GHz",
+      "Maximum Frequency": "2.5 GHz",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "2:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 0.86
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 0.81
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 0.77
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 0.74
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "Linear polarized antenna PESMA1013 from Pasternack is part ofour extensive in-stock omni directional antennas that ship thesame day from our ISO 9001:2015 certified facility. Thestamped metal antenna has a maximum frequency of 2500 MHz anda minimum frequency of 2400 MHz. This stamped metal antennahas a maximum input VSWR of 2:1.\n                This stamped metal antenna has an overall length of 0.99inches and a width of 0.06 inches. Pasternack’s PESMA1013 is asingle band antenna operating from 2400 to 2500 MHz with a1.74 dBi gain. Our high-quality omni directional antenna hasan impedance of 50 Ohms.\n                Pasternack's experts are on hand to assist you with anyinquiries. Order this PESMA1013 stamped metal antenna 7 days aweek, 24 hours a day, using our on-line ordering system withno MOQs (minimum order quantity) and same-day shipping. Ourknowledgeable sales team and ability in the globalavailability market allow us to lead the industry in supplyingRF products like these omni directional antennas.\n                "
+  },
+  {
+    "SKU": "PE51SE1002",
+    "Name": "2.4/4.9-5.8 GHz 15 dBi 90° Dual Band / Dual Polarized Sector Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51SE1002.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51SE1002.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Sector",
+      "Polarization": "Vertical/Horizontal",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 289.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 275.49
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 260.99
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 249.39
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "SKU": "PESMA1000",
+    "Name": "2400-2500 MHz, 2 dBi, Stamped Metal AP/Router Embedded Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PESMA1000.jpg",
+      "https://www.pasternack.com/images/Product/large/PESMA1000_1.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PESMA1000.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Stamped Metal",
+      "Polarization": "Linear",
+      "Minimum Frequency": "2.4 GHz",
+      "Maximum Frequency": "2.5 GHz",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "2:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 0.72
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 0.68
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 0.65
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 0.62
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "Linear polarized antenna PESMA1000 from Pasternack is part ofour extensive in-stock omni directional antennas that ship thesame day from our ISO 9001:2015 certified facility. Thestamped metal antenna has a maximum frequency of 2500 MHz anda minimum frequency of 2400 MHz. This stamped metal antennahas a maximum input VSWR of 2:1.\n                This stamped metal antenna has an overall length of 1.14inches and a width of 0.32 inches. Pasternack’s PESMA1000 is asingle band antenna operating from 2400 to 2500 MHz with a 2dBi gain. Our high-quality omni directional antenna has animpedance of 50 Ohms.\n                Pasternack's experts are on hand to assist you with anyinquiries. Order this PESMA1000 stamped metal antenna 7 days aweek, 24 hours a day, using our on-line ordering system withno MOQs (minimum order quantity) and same-day shipping. Ourknowledgeable sales team and ability in the globalavailability market allow us to lead the industry in supplyingRF products like these omni directional antennas.\n                "
+  },
+  {
+    "SKU": "PE51YA1003",
+    "Name": "2.4 GHz 15 dBi Yagi Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PE51YA1003.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PE51YA1003.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Yagi",
+      "Polarization": "Vertical or Horizontal",
+      "Connector 1 Polarity": "Standard",
+      "Connector Series": "N",
+      "Connector Gender": "Female",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "1.5:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 107.99
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 102.59
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 97.19
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 92.87
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "\n                PE51YA1003 Yagi antenna is one of over 40,000 RF, microwave and\n                millimeter wave components available from Pasternack. Our Yagi\n                aerial can ship worldwide the same-day of the purchase as with\n                our other available RF parts.\n              "
+  },
+  {
+    "SKU": "PESMA1004",
+    "Name": "2400-2500 MHz, 2 dBi, Stamped Metal AP/Router Embedded Antenna",
+    "listImg": [
+      "https://www.pasternack.com/images/Product/large/PESMA1004.jpg",
+      "https://www.pasternack.com/images/Product/large/PESMA1004_1.jpg"
+    ],
+    "pdf": "https://www.pasternack.com/images/ProductPDF/PESMA1004.pdf",
+    "Key_Specifications": {
+      "Antenna Type": "Stamped Metal",
+      "Polarization": "Linear",
+      "Minimum Frequency": "2.4 GHz",
+      "Maximum Frequency": "2.5 GHz",
+      "Impedance": "50 Ohm",
+      "Maximum Input VSWR": "2:1"
+    },
+    "pricingArray": [
+      {
+        "Quantity": "1-24",
+        "Price": 0.72
+      },
+      {
+        "Quantity": "25-49",
+        "Price": 0.68
+      },
+      {
+        "Quantity": "50-99",
+        "Price": 0.65
+      },
+      {
+        "Quantity": "100-249",
+        "Price": 0.62
+      },
+      {
+        "Quantity": "250+",
+        "Price": "over"
+      }
+    ],
+    "description": "Linear polarized antenna PESMA1004 from Pasternack is part ofour extensive in-stock omni directional antennas that ship thesame day from our ISO 9001:2015 certified facility. Thestamped metal antenna has a maximum frequency of 2500 MHz anda minimum frequency of 2400 MHz. This stamped metal antennahas a maximum input VSWR of 2:1.\n                This stamped metal antenna has an overall length of 0.94inches and a width of 0.31 inches. Pasternack’s PESMA1004 is asingle band antenna operating from 2400 to |Max Freq(MHz)| MHzwith a 2 dBi gain. Our high-quality omni directional antennahas an impedance of 50 Ohms.\n                Pasternack's experts are on hand to assist you with anyinquiries. Order this PESMA1004 stamped metal antenna 7 days aweek, 24 hours a day, using our on-line ordering system withno MOQs (minimum order quantity) and same-day shipping. Ourknowledgeable sales team and ability in the globalavailability market allow us to lead the industry in supplyingRF products like these omni directional antennas.\n                "
+  }
+]
