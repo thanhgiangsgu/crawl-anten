@@ -181,11 +181,12 @@ class pasternack {
     worksheet.columns = [
       { header: "SKU", key: "SKU", width: 15 },
       { header: "Name", key: "Name", width: 50 },
+      { header: "Description", key: "Description", width: 50 },
+      { header: "PDF", key: "PDF", width: 50 },
       { header: "Image 1", key: "Image1", width: 50 },
       { header: "Image 2", key: "Image2", width: 50 },
       { header: "Image 3", key: "Image3", width: 50 },
       { header: "Image 4", key: "Image4", width: 50 },
-      { header: "PDF", key: "PDF", width: 50 },
       { header: "Antenna Type", key: "AntennaType", width: 20 },
       { header: "Polarization", key: "Polarization", width: 20 },
       { header: "Connector 1 Polarity", key: "Connector1Polarity", width: 20 },
@@ -193,12 +194,14 @@ class pasternack {
       { header: "Connector Gender", key: "ConnectorGender", width: 20 },
       { header: "Impedance", key: "Impedance", width: 20 },
       { header: "Maximum Input VSWR", key: "MaximumInputVSWR", width: 20 },
+      { header: "Nominal Gain", key: "NominalGain", width: 20 },
+      { header: "Minimum Frequency", key: "MinimumFrequency", width: 20 },
+      { header: "Maximum Frequency", key: "MaximumFrequency", width: 20 },
       { header: "Price 1-24", key: "Price1_24", width: 20 },
       { header: "Price 25-49", key: "Price25_49", width: 20 },
       { header: "Price 50-99", key: "Price50_99", width: 20 },
       { header: "Price 100-249", key: "Price100_249", width: 20 },
       { header: "Price 250+", key: "Price250", width: 20 },
-      { header: "Description", key: "Description", width: 50 },
     ];
 
     // Thêm dữ liệu vào worksheet
@@ -226,6 +229,9 @@ class pasternack {
         Price100_249: product.pricingArray[3]?.Price || "",
         Price250: product.pricingArray[4]?.Price || "",
         Description: product.description || "",
+        NominalGain: product.Key_Specifications["Nominal Gain"] || "",
+        MinimumFrequency: product.Key_Specifications["Minimum Frequency"] || "",
+        MaximumFrequency: product.Key_Specifications["Maximum Frequency"] || "",
       };
       worksheet.addRow(row);
     });
@@ -234,6 +240,70 @@ class pasternack {
     const filePath = "data_final.xlsx";
     await workbook.xlsx.writeFile(filePath);
     console.log(`Excel file saved as: ${filePath}`);
+  }
+
+  async extractSpecifications(req, res) {
+    // Đọc dữ liệu từ file data_final.json
+    fs.readFile("data_final.json", "utf8", (err, data) => {
+      if (err) {
+        console.error("Error reading file:", err);
+        return;
+      }
+      const allSpecifications = [];
+      try {
+        const jsonData = JSON.parse(data);
+        jsonData.forEach((item) => {
+          const specifications = item.Key_Specifications;
+          const keys = Object.keys(specifications);
+
+          keys.forEach((key) => {
+            if (!allSpecifications.includes(key)) {
+              allSpecifications.push(key);
+            }
+          });
+        });
+        res.json(allSpecifications);
+      } catch (error) {
+        console.error("Error parsing JSON:", error);
+      }
+    });
+  }
+
+  async filterData(req, res) {
+    console.log("hello");
+    fs.readFile("data_final.json", "utf8", (err, data) => {
+      if (err) {
+        console.error("Error reading file:", err);
+        return;
+      }
+      try {
+        const jsonData = JSON.parse(data);
+        console.log(jsonData.length);
+        const skuMap = new Map();
+        const filteredData = jsonData.filter((item) => {
+          const sku = item.SKU;
+          if (!skuMap.has(sku)) {
+            skuMap.set(sku, true);
+            return true;
+          }
+          return false;
+        });
+        const filteredDataString = JSON.stringify(filteredData, null, 2);
+        const filteredDataJson = JSON.parse(filteredDataString); // Chuyển chuỗi JSON thành đối tượng JSON
+
+        console.log(filteredDataJson.length);
+        // Ghi dữ liệu đã lọc vào file
+        fs.writeFile("filtered_data.json", filteredDataString, (err) => {
+          if (err) {
+            console.error("Error writing file:", err);
+            return;
+          }
+          console.log("Filtered data has been saved to filtered_data.json");
+        });
+      } catch (error) {
+        console.error("Error parsing JSON:", error);
+      }
+    });
   }
 }
 
